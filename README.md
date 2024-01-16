@@ -1,8 +1,8 @@
-# love the coding 
-explaining my love for coding
+# Football Quiz
+Football countries guessing game
 ## Setup
-- install python
-- run python
-- create a file on python
-- finish the file
-- share the file
+- Run the code
+- Play the game!
+- Guess the countries of the players
+- Get your score
+- Share the game with your friends.
