@@ -1,11 +1,11 @@
 # Football Quiz
 Football countries guessing game
 ## Setup
+- Copy the code
 - Run the code
 - Play the game!
-- Guess the countries of the players
-- Get your score
+- Guess the countries and the current clubs of the players!
+- Get your score!
 - Share the game with your friends.
-## Press run to start game
 
 
