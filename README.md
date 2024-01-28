@@ -1,4 +1,4 @@
-# Football Quiz
+# Test your knowledge about football players
 Football players guessing game
 ## Setup
 - Copy the code
