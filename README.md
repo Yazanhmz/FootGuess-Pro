@@ -1,5 +1,5 @@
-# Test your knowledge about football players
-Football players guessing game
+# Welcome to FootGuess-Pro!
+Test your knowledge about famous football players!
 ## Setup
 - Copy the code
 - Run the code
