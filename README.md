@@ -1,6 +1,6 @@
 # Welcome to FootGuess-Pro!
 Test your knowledge about famous football players!
-## Setup
+## How to play?!
 - Copy the code
 - Run the code
 - Play the game!
